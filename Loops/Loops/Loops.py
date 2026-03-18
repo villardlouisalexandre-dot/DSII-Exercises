@@ -175,7 +175,8 @@ def exo9():
         print(f"The money is enough - it would cost {total:.2f}lv.")
     else:
         print(f"John will need {total - money:.2f}lv more.")
-
+        
+# comment
 
 # =========================
 # EXERCICE 10 — Rage Expenses
