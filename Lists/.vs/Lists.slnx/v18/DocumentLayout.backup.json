@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis\\source\\repos\\Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3600335-1B5B-4B46-9049-80D207522912}|Lists\\Lists.pyproj|C:\\Users\\louis\\source\\repos\\Lists\\Lists\\Lists.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F3600335-1B5B-4B46-9049-80D207522912}|Lists\\Lists.pyproj|solutionrelative:Lists\\Lists.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lists.py",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\Lists\\Lists\\Lists.py",
+              "RelativeDocumentMoniker": "Lists\\Lists.py",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\Lists\\Lists\\Lists.py",
+              "RelativeToolTip": "Lists\\Lists.py",
+              "ViewState": "AgIAANYAAAAAAAAAAAAowEcBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T17:25:40.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

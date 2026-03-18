@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis\\source\\repos\\Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65DE442D-83E5-494D-805C-7FD1EF200AF0}|Methods\\Methods.pyproj|C:\\Users\\louis\\source\\repos\\Methods\\Methods\\Methods.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65DE442D-83E5-494D-805C-7FD1EF200AF0}|Methods\\Methods.pyproj|solutionrelative:Methods\\Methods.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Methods.py",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\Methods\\Methods\\Methods.py",
+              "RelativeDocumentMoniker": "Methods\\Methods.py",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\Methods\\Methods\\Methods.py",
+              "RelativeToolTip": "Methods\\Methods.py",
+              "ViewState": "AgIAANwAAAAAAAAAAAAowPYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T17:25:13.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

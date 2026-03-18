@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\louis\\source\\repos\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC2EDDD-70A6-4B4E-A512-F1C6EA34B9FE}|Arrays\\Arrays.pyproj|C:\\Users\\louis\\source\\repos\\Arrays\\Arrays\\Arrays.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BDC2EDDD-70A6-4B4E-A512-F1C6EA34B9FE}|Arrays\\Arrays.pyproj|solutionrelative:Arrays\\Arrays.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arrays.py",
+              "DocumentMoniker": "C:\\Users\\louis\\source\\repos\\Arrays\\Arrays\\Arrays.py",
+              "RelativeDocumentMoniker": "Arrays\\Arrays.py",
+              "ToolTip": "C:\\Users\\louis\\source\\repos\\Arrays\\Arrays\\Arrays.py",
+              "RelativeToolTip": "Arrays\\Arrays.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-18T17:24:36.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
